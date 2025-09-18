@@ -1,0 +1,21 @@
+# 🚴 Bike Sales Dashboard – Excel Project  
+
+## 📌 Overview  
+Interactive **Excel dashboard** analyzing bike sales in December 2021. Includes filters by date, gender, and state, with insights on revenue & profit by color, age group distribution, country performance, and daily sales trends.  
+
+## 📂 Project Files  
+- [Raw Data](uncleaned%20bike%20sales%20data.xlsx)  
+- [Final Dashboard](Bikes%20Sales%20in%20December%202021.pptx)  
+- [Screenshot](SharedScreenshot.jpg)  
+- [Demo Video](Screen%20Recording%20(4-21-2025%202-14-40%20Pm).mp4)  
+
+## 📸 Dashboard Preview  
+![Dashboard Screenshot](SharedScreenshot.jpg)  
+
+## 🛠 Tools & Techniques  
+- Microsoft Excel  
+- Pivot Tables & Charts  
+- Slicers for interactive filters  
+
+## 🎯 Business Value  
+This dashboard helps analyze customer segments, sales performance by country, and product color profitability, providing data-driven insights for decision making.  
